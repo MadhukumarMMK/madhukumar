@@ -20,7 +20,7 @@ const Navbar = () => {
       className="fixed top-0 left-0 right-0 z-50 glass"
     >
       <div className="container flex items-center justify-between py-4">
-        <a href="#" className="font-bold text-lg text-gradient">MK</a>
+        <a href="#" className="font-bold text-lg text-gradient">MMK</a>
 
         {/* Desktop */}
         <div className="hidden md:flex items-center gap-8">
