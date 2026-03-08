@@ -69,6 +69,14 @@ const HeroSection = () => {
             <Github size={20} />
           </a>
           <a
+            href="https://www.instagram.com/tech_boy_mmk/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3 rounded-full glass hover:glow-primary transition-all duration-300 text-muted-foreground hover:text-primary"
+          >
+            <Instagram size={20} />
+          </a>
+          <a
             href="mailto:madhummk371@gmail.com"
             className="p-3 rounded-full glass hover:glow-primary transition-all duration-300 text-muted-foreground hover:text-primary"
           >

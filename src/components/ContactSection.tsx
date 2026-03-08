@@ -36,6 +36,7 @@ const ContactSection = () => {
         >
           {[
             { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/madhukumar-munjuluri-4753b7179" },
+            { icon: Instagram, label: "Instagram", href: "https://www.instagram.com/tech_boy_mmk/" },
             { icon: Mail, label: "Email", href: "mailto:madhummk371@gmail.com" },
             { icon: MapPin, label: "Andhra Pradesh, India", href: "#" },
           ].map((item) => (
