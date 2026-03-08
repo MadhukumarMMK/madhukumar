@@ -28,7 +28,7 @@ const AboutSection = () => {
             {[
               { icon: MapPin, label: "Location", value: "Andhra Pradesh, India" },
               { icon: Briefcase, label: "Role", value: "Web Developer & Trainer" },
-              { icon: GraduationCap, label: "Experience", value: "1+ Years" },
+              { icon: GraduationCap, label: "Experience", value: "2 Years" },
             ].map((item, i) => (
               <motion.div
                 key={item.label}
