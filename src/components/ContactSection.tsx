@@ -7,7 +7,7 @@ const ContactSection = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const mailtoLink = `mailto:contact@madhukumar.dev?subject=Portfolio Contact from ${formData.name}&body=${encodeURIComponent(formData.message)}%0A%0AFrom: ${formData.email}`;
+    const mailtoLink = `mailto:madhummk371@gmail.com?subject=Portfolio Contact from ${formData.name}&body=${encodeURIComponent(formData.message)}%0A%0AFrom: ${formData.email}`;
     window.open(mailtoLink);
   };
 
@@ -36,7 +36,7 @@ const ContactSection = () => {
         >
           {[
             { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/madhukumar-munjuluri-4753b7179" },
-            { icon: Mail, label: "Email", href: "mailto:contact@madhukumar.dev" },
+            { icon: Mail, label: "Email", href: "mailto:madhummk371@gmail.com" },
             { icon: MapPin, label: "Andhra Pradesh, India", href: "#" },
           ].map((item) => (
             <a
