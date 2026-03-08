@@ -61,7 +61,7 @@ const HeroSection = () => {
             <Linkedin size={20} />
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/MadhukumarMMK"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full glass hover:glow-primary transition-all duration-300 text-muted-foreground hover:text-primary"
@@ -69,7 +69,7 @@ const HeroSection = () => {
             <Github size={20} />
           </a>
           <a
-            href="mailto:contact@madhukumar.dev"
+            href="mailto:madhummk371@gmail.com"
             className="p-3 rounded-full glass hover:glow-primary transition-all duration-300 text-muted-foreground hover:text-primary"
           >
             <Mail size={20} />
