@@ -18,9 +18,10 @@ const AboutSection = () => {
           </h3>
 
           <p className="text-muted-foreground text-base md:text-lg leading-relaxed mb-10">
-            I'm a Full Stack Web Developer with 1+ years of professional experience, currently working at Technical Hub.
-            I'm deeply interested in learning new technologies and building solutions that make a meaningful impact.
-            As a Technical Trainer, I also love sharing knowledge and helping others grow in their development journey.
+            I'm a Full Stack Web Developer with 2 years of professional experience, currently working at Technical Hub.
+            Alongside my role as a Web Developer, I also serve as a Technical Trainer — both roles running in parallel.
+            I'm deeply passionate about learning new technologies and building solutions that make a meaningful impact,
+            while helping others grow in their development journey.
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
