@@ -2,18 +2,11 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    role: "Web Developer",
+    role: "Web Developer & Technical Trainer",
     company: "Technical Hub",
-    period: "May 2024 – Present",
+    period: "2024 – Present",
     description:
-      "Building and maintaining full-stack web applications. Contributing to frontend and backend development using modern JavaScript frameworks and tools.",
-  },
-  {
-    role: "Technical Trainer",
-    company: "Technical Hub",
-    period: "2023 – Present",
-    description:
-      "Training students and professionals in full-stack web development technologies including HTML, CSS, JavaScript, React, Node.js, and databases.",
+      "Working as a Web Developer building and maintaining full-stack web applications, while simultaneously serving as a Technical Trainer — training students and professionals in HTML, CSS, JavaScript, React, Node.js, and databases. Both roles carried out in parallel with 2 years of combined experience.",
   },
 ];
 
